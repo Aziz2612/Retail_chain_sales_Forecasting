@@ -1,7 +1,0 @@
-store_id,Naive (last day),Seasonal naive (last week),Weekday avg (last 4 weeks),Holt-Winters,LightGBM,LightGBM v2
-1,12.1,4.8,3.7,3.7,4.8,3.5
-2,9.1,6.6,10.7,6.3,8.0,7.2
-3,16.2,4.5,3.7,4.9,3.8,4.7
-4,13.3,4.8,5.1,5.3,4.9,8.8
-Average,12.7,5.2,5.8,5.0,5.4,6.0
-Worst,16.2,6.6,10.7,6.3,8.0,8.8
