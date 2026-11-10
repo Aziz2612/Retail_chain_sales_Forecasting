@@ -1,0 +1,5 @@
+,Daily,Weekly,Monthly
+Seasonal naive (last week),52.9,31.2,26.4
+Weekday avg (last 4 weeks),46.8,29.9,23.9
+LightGBM,45.8,31.0,24.0
+Ensemble,44.7,29.3,22.5
